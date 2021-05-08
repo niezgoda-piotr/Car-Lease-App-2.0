@@ -19,9 +19,6 @@ import java.util.UUID;
 @NoArgsConstructor
 public class CarEntity {
 
-//    @Id
-//    private Long id;
-
     @Id
     @NotNull
     private String carUuid;
